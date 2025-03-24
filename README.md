@@ -1,4 +1,4 @@
-## Olá, eu sou a Pedro! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
+## Olá, eu sou a Pedro! | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
 
 ### 🚀 Sobre mim
 Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
@@ -10,8 +10,8 @@ Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho in
 - **Node.js**: Construção de APIs.
 - **Angular**: Desenvolvimento de aplicações frontend dinâmicas.
 
-### 🏅 Projetos e Certificados:  
-📁 Visite meu site/blog para ver meus projetos e certificados. [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
+### 🏅 Projetos e Certificados | [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
+Visite meu site/blog para ver meus projetos e certificados.
 
 ### 👨‍💻 Tudo que estou estudando:
 
