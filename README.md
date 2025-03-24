@@ -1,21 +1,19 @@
-# Pedro Lucas Duarte | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/devpedroduarte/)
+## Olá, eu sou a Pedro! 👋 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
 
-## 👋 Olá, eu sou o Pedro! 👨‍💻☕️  
-💻 Aqui eu aprimoro minhas habilidades no desenvolvimento de software!  
+### 🚀 Sobre mim
+Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/296/2965.gif" alt="GIF animado de programação" />
-</p>
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pedrolduarte?label=Commits&color=blue)
 
-## ⭐ Tecnologias em que me destaco:
+### ⭐ Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
 - **Node.js**: Construção de APIs.
 - **Angular**: Desenvolvimento de aplicações frontend dinâmicas.
 
-## 🏅 Projetos e Certificados:
-📁 Visite meu site/blog para ver meus projetos e certificados: [Em breve]
+### 🏅 Projetos e Certificados:  
+📁 Visite meu site/blog para ver meus projetos e certificados. [![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
 
-## 👨‍💻 Tudo que estou estudando:
+### 👨‍💻 Tudo que estou estudando:
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60" height="60"/>
@@ -30,5 +28,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
 </p>
-
-
