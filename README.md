@@ -11,10 +11,7 @@ Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho in
 
 ### 🏅 Projetos e Certificados:
 
-<a href="https://www.linkedin.com/in/devpedroduarte/" style="text-decoration: none; display: flex; align-items: center;">
-  <span>Visite meu site/blog para ver meus projetos e certificados.</span>
-  <img src="https://img.shields.io/badge/Meu_Portfólio-000?style=flat-square&logo=laptop&logoColor=white" alt="Portfolio Badge" style="margin-left: 8px;">
-</a>
+Visite meu site/blog para ver meus projetos e certificados: [💻](https://www.linkedin.com/in/devpedroduarte/)
 
 ### 👨‍💻 Tudo que estou estudando:
 
