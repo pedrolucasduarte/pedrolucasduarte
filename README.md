@@ -10,7 +10,7 @@ Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho in
 - **Node.js**: Construção de APIs.
 - **Angular**: Desenvolvimento de aplicações frontend dinâmicas.
 
-### 🏅 Projetos e Certificados | [![Portfolio Badge](https://img.shields.io/badge/Meu_Portfólio-000?style=flat-square&logo=ko-fi&logoColor=white&link=https://katherineoelsner.com/)](https://www.linkedin.com/in/devpedroduarte/)
+### 🏅 Projetos e Certificados | [![Portfolio Badge](https://img.shields.io/badge/Meu_Portfólio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
 
 Visite meu site/blog para ver meus projetos e certificados.
 
