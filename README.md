@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim
 Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
 
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/pedrolduarte?label=Commits&color=blue)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pedrolduarte&theme=github)
 
 ### ⭐ Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
@@ -12,7 +12,7 @@ Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho in
 
 ### 🏅 Projetos e Certificados:
 
-Visite meu site/blog para ver meus projetos e certificados. [![Portfolio Badge](https://img.shields.io/badge/Meu_Portfólio-000?style=flat-square&logo=laptop&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
+Visite meu site/blog para ver meus projetos e certificados. | [![Portfolio Badge](https://img.shields.io/badge/Meu_Portfólio-000?style=flat-square&logo=laptop&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
 
 ### 👨‍💻 Tudo que estou estudando:
 
