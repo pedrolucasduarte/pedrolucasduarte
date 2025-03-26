@@ -2,9 +2,9 @@
 
 ### 🚀 Sobre mim
 Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pedrolduarte&theme=dark" alt="GitHub Streak">
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=pedrolduarte&theme=dark)
+
 
 ### ⭐ Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
