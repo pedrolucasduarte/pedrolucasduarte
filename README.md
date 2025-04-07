@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre mim
 Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
-![GitHub Activity Graph of PEDRO](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolduarte&layout=compact)
 
 ### ⭐ Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
