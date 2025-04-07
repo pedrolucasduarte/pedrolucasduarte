@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim
 Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolduarte&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrolduarte&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolduarte&layout=compact) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrolduarte&theme=dark)](https://git.io/streak-stats)
 
 ### ⭐ Tecnologias em que me destaco:
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
