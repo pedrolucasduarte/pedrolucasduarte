@@ -1,20 +1,20 @@
-## 👋 Olá, eu sou o Pedro! | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/pedrolucasduarte/)
+## 👋 Olá, eu sou o Pedro! [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devpedroduarte/)
 
 ### 🚀 Sobre mim
 
 Sou desenvolvedor com foco em backend, e aqui no GitHub é onde busco aprimorar minhas habilidades no desenvolvimento — estudando, experimentando e construindo projetos. Tenho interesse principal em Java e Spring, mas também transito pelo frontend quando a situação pede.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasduarte&layout=compact)
+- 👨‍💻 Atualmente trabalhando em projetos de estudo com **Java** e **Spring Boot**
+- 🧠 Atualmente aprendendo **Spring Security**, **JWT** e boas práticas de arquitetura backend
+- 🎨 Quando necessário, também vou pro frontend com Angular e TypeScript
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrolucasduarte&theme=dracula)
 
 ### ⭐ Tecnologias em que me destaco:
 
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
 - **Node.js**: Construção de APIs.
 - **Angular**: Desenvolvimento de aplicações frontend dinâmicas.
-
-### 🏅 Projetos e Certificados:
-
-Visite meu perfil para ver meus projetos e certificados: [💻](https://www.linkedin.com/in/pedrolucasduarte/)
 
 ### 👨‍💻 Tudo que estou estudando:
 
