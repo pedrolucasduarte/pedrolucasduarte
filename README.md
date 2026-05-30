@@ -1,18 +1,20 @@
-## 👋 Olá, eu sou a Pedro! | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/devpedroduarte/)
+## 👋 Olá, eu sou o Pedro! | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/www.linkedin.com/in/devpedroduarte/)](https://www.linkedin.com/in/pedrolucasduarte/)
 
 ### 🚀 Sobre mim
-Sou estudante e estagiário em TI, aspirante a desenvolvedor fullstack. Tenho interesse em Java e Angular, sempre buscando aprender e aprimorar minhas habilidades.
+
+Sou desenvolvedor com foco em backend, e aqui no GitHub é onde busco aprimorar minhas habilidades no desenvolvimento — estudando, experimentando e construindo projetos. Tenho interesse principal em Java e Spring, mas também transito pelo frontend quando a situação pede.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolucasduarte&layout=compact)
 
 ### ⭐ Tecnologias em que me destaco:
+
 - **Java**: Desenvolvimento de aplicações backend com **Spring**.
 - **Node.js**: Construção de APIs.
 - **Angular**: Desenvolvimento de aplicações frontend dinâmicas.
 
 ### 🏅 Projetos e Certificados:
 
-Visite meu site/blog para ver meus projetos e certificados: [💻](https://www.linkedin.com/in/devpedroduarte/)
+Visite meu perfil para ver meus projetos e certificados: [💻](https://www.linkedin.com/in/pedrolucasduarte/)
 
 ### 👨‍💻 Tudo que estou estudando:
 
